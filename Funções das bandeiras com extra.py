@@ -205,4 +205,6 @@ elif bandeira_escolhida == 'África do Sul':
 elif bandeira_escolhida == 'República Centro Africana':
     republica_centro_africana
 else: 
-    print('Não é possível desenhar essa bandeira')    
+    print('Não é possível desenhar essa bandeira') 
+
+mainloop()
